@@ -6,3 +6,4 @@
 --platform=linux/arm64 xiaoyaliu/alist
 nacos/nacos-server:1.4.1
 xuxueli/xxl-job-admin:2.3.1
+minio/minio:RELEASE.2024-12-18T13-15-44Z-cpuv1
