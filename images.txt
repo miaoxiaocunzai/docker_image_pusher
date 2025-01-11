@@ -1,5 +1,2 @@
-mysql:latest
-rabbitmq:3.13.7-alpine
-node:20.18.1-alpine
-mongo:5.0-rc-nanoserver-ltsc2022
-zookeeper:3.9.3-jre-17
+mongo:latest
+zookeeper:latest
